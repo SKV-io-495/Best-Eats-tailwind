@@ -1,4 +1,5 @@
-![Untitled design](https://user-images.githubusercontent.com/65420004/180659905-25df4a63-6f62-4a09-85a5-86803d7796b2.jpg)
+
+![Untitled](https://github.com/SKV-io-495/food-app-react-tailwind-main/assets/122828689/b4926522-4b25-4b85-afcc-b978ccd3eea7)
 
 
 # React JS Website Styled With Tailwind CSS
